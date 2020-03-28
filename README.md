@@ -1,2 +1,0 @@
-# sports
- sports programming problems
